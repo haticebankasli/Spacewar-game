@@ -1,0 +1,792 @@
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/deneme
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/deneme.deps.json
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/deneme.runtimeconfig.json
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/deneme.dll
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/deneme.pdb
+/Users/besttech/Downloads/deneme/obj/Debug/net8.0/deneme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/besttech/Downloads/deneme/obj/Debug/net8.0/deneme.AssemblyInfoInputs.cache
+/Users/besttech/Downloads/deneme/obj/Debug/net8.0/deneme.AssemblyInfo.cs
+/Users/besttech/Downloads/deneme/obj/Debug/net8.0/deneme.csproj.CoreCompileInputs.cache
+/Users/besttech/Downloads/deneme/obj/Debug/net8.0/deneme.dll
+/Users/besttech/Downloads/deneme/obj/Debug/net8.0/refint/deneme.dll
+/Users/besttech/Downloads/deneme/obj/Debug/net8.0/deneme.pdb
+/Users/besttech/Downloads/deneme/obj/Debug/net8.0/deneme.genruntimeconfig.cache
+/Users/besttech/Downloads/deneme/obj/Debug/net8.0/ref/deneme.dll
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/SFML.Audio.dll
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/SFML.Graphics.dll
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/SFML.System.dll
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/SFML.Window.dll
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/fedora-x64/native/libcsfml-audio.so
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/fedora-x64/native/libcsfml-audio.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/fedora-x64/native/libcsfml-graphics.so
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/fedora-x64/native/libcsfml-graphics.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/fedora-x64/native/libcsfml-system.so
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/fedora-x64/native/libcsfml-system.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/fedora-x64/native/libcsfml-window.so
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/fedora-x64/native/libcsfml-window.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/fedora-x64/native/libsfml-audio.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/fedora-x64/native/libsfml-graphics.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/fedora-x64/native/libsfml-system.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/fedora-x64/native/libsfml-window.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-arm/native/libcsfml-audio.so
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-arm/native/libcsfml-audio.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-arm/native/libcsfml-graphics.so
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-arm/native/libcsfml-graphics.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-arm/native/libcsfml-system.so
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-arm/native/libcsfml-system.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-arm/native/libcsfml-window.so
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-arm/native/libcsfml-window.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-arm/native/libsfml-audio.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-arm/native/libsfml-graphics.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-arm/native/libsfml-system.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-arm/native/libsfml-window.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-arm64/native/libcsfml-audio.so
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-arm64/native/libcsfml-audio.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-arm64/native/libcsfml-graphics.so
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-arm64/native/libcsfml-graphics.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-arm64/native/libcsfml-system.so
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-arm64/native/libcsfml-system.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-arm64/native/libcsfml-window.so
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-arm64/native/libcsfml-window.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-arm64/native/libsfml-audio.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-arm64/native/libsfml-graphics.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-arm64/native/libsfml-system.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-arm64/native/libsfml-window.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libcsfml-audio.so
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libcsfml-audio.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libcsfml-graphics.so
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libcsfml-graphics.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libcsfml-system.so
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libcsfml-system.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libcsfml-window.so
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libcsfml-window.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libsfml-audio.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libsfml-graphics.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libsfml-system.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libsfml-window.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-x64/native/libcsfml-audio.so
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-x64/native/libcsfml-audio.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-x64/native/libcsfml-graphics.so
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-x64/native/libcsfml-graphics.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-x64/native/libcsfml-system.so
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-x64/native/libcsfml-system.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-x64/native/libcsfml-window.so
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-x64/native/libcsfml-window.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-x64/native/libsfml-audio.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-x64/native/libsfml-graphics.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-x64/native/libsfml-system.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/linux-x64/native/libsfml-window.so.2.6
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/FLAC.framework/FLAC
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/FLAC.framework/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/FLAC.framework/Versions/A/FLAC
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/FLAC.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/FLAC.framework/Versions/Current/FLAC
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/FLAC.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/OpenAL.framework/OpenAL
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/OpenAL.framework/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/OpenAL.framework/Versions/A/OpenAL
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/OpenAL.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/OpenAL.framework/Versions/Current/OpenAL
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/OpenAL.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/freetype.framework/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/freetype.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/freetype.framework/Versions/A/freetype
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/freetype.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/freetype.framework/Versions/Current/freetype
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/freetype.framework/freetype
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/libcsfml-audio.2.6.dylib
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/libcsfml-audio.dylib
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/libcsfml-graphics.2.6.dylib
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/libcsfml-graphics.dylib
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/libcsfml-system.2.6.dylib
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/libcsfml-system.dylib
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/libcsfml-window.2.6.dylib
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/libcsfml-window.dylib
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/libsfml-audio.2.6.dylib
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/libsfml-graphics.2.6.dylib
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/libsfml-system.2.6.dylib
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/libsfml-window.2.6.dylib
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/ogg.framework/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/ogg.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/ogg.framework/Versions/A/ogg
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/ogg.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/ogg.framework/Versions/Current/ogg
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/ogg.framework/ogg
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbis.framework/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbis.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbis.framework/Versions/A/vorbis
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbis.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbis.framework/Versions/Current/vorbis
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbis.framework/vorbis
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisenc.framework/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisenc.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisenc.framework/Versions/A/vorbisenc
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisenc.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisenc.framework/Versions/Current/vorbisenc
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisenc.framework/vorbisenc
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisfile.framework/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisfile.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisfile.framework/Versions/A/vorbisfile
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisfile.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisfile.framework/Versions/Current/vorbisfile
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisfile.framework/vorbisfile
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/FLAC.framework/FLAC
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/FLAC.framework/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/FLAC.framework/Versions/A/FLAC
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/FLAC.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/FLAC.framework/Versions/Current/FLAC
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/FLAC.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/OpenAL.framework/OpenAL
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/OpenAL.framework/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/OpenAL.framework/Versions/A/OpenAL
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/OpenAL.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/OpenAL.framework/Versions/Current/OpenAL
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/OpenAL.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/freetype.framework/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/freetype.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/freetype.framework/Versions/A/freetype
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/freetype.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/freetype.framework/Versions/Current/freetype
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/freetype.framework/freetype
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/libcsfml-audio.2.6.dylib
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/libcsfml-audio.dylib
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/libcsfml-graphics.2.6.dylib
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/libcsfml-graphics.dylib
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/libcsfml-system.2.6.dylib
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/libcsfml-system.dylib
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/libcsfml-window.2.6.dylib
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/libcsfml-window.dylib
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/libsfml-audio.2.6.dylib
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/libsfml-graphics.2.6.dylib
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/libsfml-system.2.6.dylib
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/libsfml-window.2.6.dylib
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/ogg.framework/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/ogg.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/ogg.framework/Versions/A/ogg
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/ogg.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/ogg.framework/Versions/Current/ogg
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/ogg.framework/ogg
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/vorbis.framework/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/vorbis.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/vorbis.framework/Versions/A/vorbis
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/vorbis.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/vorbis.framework/Versions/Current/vorbis
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/vorbis.framework/vorbis
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisenc.framework/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisenc.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisenc.framework/Versions/A/vorbisenc
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisenc.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisenc.framework/Versions/Current/vorbisenc
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisenc.framework/vorbisenc
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisfile.framework/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisfile.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisfile.framework/Versions/A/vorbisfile
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisfile.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisfile.framework/Versions/Current/vorbisfile
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisfile.framework/vorbisfile
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/win-x64/native/csfml-audio.dll
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/win-x64/native/csfml-graphics.dll
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/win-x64/native/csfml-system.dll
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/win-x64/native/csfml-window.dll
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/win-x64/native/openal32.dll
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/win-x86/native/csfml-audio.dll
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/win-x86/native/csfml-graphics.dll
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/win-x86/native/csfml-system.dll
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/win-x86/native/csfml-window.dll
+/Users/besttech/Downloads/deneme/bin/Debug/net8.0/runtimes/win-x86/native/openal32.dll
+/Users/besttech/Downloads/deneme/obj/Debug/net8.0/deneme.csproj.AssemblyReference.cache
+/Users/besttech/Downloads/deneme/obj/Debug/net8.0/deneme.csproj.Up2Date
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/deneme
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/deneme.deps.json
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/deneme.runtimeconfig.json
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/deneme.dll
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/deneme.pdb
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/SFML.Audio.dll
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/SFML.Graphics.dll
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/SFML.System.dll
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/SFML.Window.dll
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/fedora-x64/native/libcsfml-audio.so
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/fedora-x64/native/libcsfml-audio.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/fedora-x64/native/libcsfml-graphics.so
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/fedora-x64/native/libcsfml-graphics.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/fedora-x64/native/libcsfml-system.so
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/fedora-x64/native/libcsfml-system.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/fedora-x64/native/libcsfml-window.so
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/fedora-x64/native/libcsfml-window.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/fedora-x64/native/libsfml-audio.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/fedora-x64/native/libsfml-graphics.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/fedora-x64/native/libsfml-system.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/fedora-x64/native/libsfml-window.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-arm/native/libcsfml-audio.so
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-arm/native/libcsfml-audio.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-arm/native/libcsfml-graphics.so
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-arm/native/libcsfml-graphics.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-arm/native/libcsfml-system.so
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-arm/native/libcsfml-system.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-arm/native/libcsfml-window.so
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-arm/native/libcsfml-window.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-arm/native/libsfml-audio.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-arm/native/libsfml-graphics.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-arm/native/libsfml-system.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-arm/native/libsfml-window.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-arm64/native/libcsfml-audio.so
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-arm64/native/libcsfml-audio.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-arm64/native/libcsfml-graphics.so
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-arm64/native/libcsfml-graphics.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-arm64/native/libcsfml-system.so
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-arm64/native/libcsfml-system.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-arm64/native/libcsfml-window.so
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-arm64/native/libcsfml-window.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-arm64/native/libsfml-audio.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-arm64/native/libsfml-graphics.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-arm64/native/libsfml-system.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-arm64/native/libsfml-window.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libcsfml-audio.so
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libcsfml-audio.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libcsfml-graphics.so
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libcsfml-graphics.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libcsfml-system.so
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libcsfml-system.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libcsfml-window.so
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libcsfml-window.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libsfml-audio.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libsfml-graphics.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libsfml-system.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libsfml-window.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-x64/native/libcsfml-audio.so
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-x64/native/libcsfml-audio.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-x64/native/libcsfml-graphics.so
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-x64/native/libcsfml-graphics.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-x64/native/libcsfml-system.so
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-x64/native/libcsfml-system.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-x64/native/libcsfml-window.so
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-x64/native/libcsfml-window.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-x64/native/libsfml-audio.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-x64/native/libsfml-graphics.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-x64/native/libsfml-system.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/linux-x64/native/libsfml-window.so.2.6
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/FLAC.framework/FLAC
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/FLAC.framework/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/FLAC.framework/Versions/A/FLAC
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/FLAC.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/FLAC.framework/Versions/Current/FLAC
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/FLAC.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/OpenAL.framework/OpenAL
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/OpenAL.framework/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/OpenAL.framework/Versions/A/OpenAL
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/OpenAL.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/OpenAL.framework/Versions/Current/OpenAL
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/OpenAL.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/freetype.framework/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/freetype.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/freetype.framework/Versions/A/freetype
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/freetype.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/freetype.framework/Versions/Current/freetype
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/freetype.framework/freetype
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/libcsfml-audio.2.6.dylib
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/libcsfml-audio.dylib
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/libcsfml-graphics.2.6.dylib
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/libcsfml-graphics.dylib
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/libcsfml-system.2.6.dylib
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/libcsfml-system.dylib
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/libcsfml-window.2.6.dylib
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/libcsfml-window.dylib
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/libsfml-audio.2.6.dylib
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/libsfml-graphics.2.6.dylib
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/libsfml-system.2.6.dylib
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/libsfml-window.2.6.dylib
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/ogg.framework/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/ogg.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/ogg.framework/Versions/A/ogg
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/ogg.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/ogg.framework/Versions/Current/ogg
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/ogg.framework/ogg
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbis.framework/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbis.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbis.framework/Versions/A/vorbis
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbis.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbis.framework/Versions/Current/vorbis
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbis.framework/vorbis
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisenc.framework/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisenc.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisenc.framework/Versions/A/vorbisenc
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisenc.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisenc.framework/Versions/Current/vorbisenc
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisenc.framework/vorbisenc
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisfile.framework/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisfile.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisfile.framework/Versions/A/vorbisfile
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisfile.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisfile.framework/Versions/Current/vorbisfile
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisfile.framework/vorbisfile
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/FLAC.framework/FLAC
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/FLAC.framework/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/FLAC.framework/Versions/A/FLAC
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/FLAC.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/FLAC.framework/Versions/Current/FLAC
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/FLAC.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/OpenAL.framework/OpenAL
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/OpenAL.framework/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/OpenAL.framework/Versions/A/OpenAL
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/OpenAL.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/OpenAL.framework/Versions/Current/OpenAL
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/OpenAL.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/freetype.framework/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/freetype.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/freetype.framework/Versions/A/freetype
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/freetype.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/freetype.framework/Versions/Current/freetype
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/freetype.framework/freetype
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/libcsfml-audio.2.6.dylib
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/libcsfml-audio.dylib
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/libcsfml-graphics.2.6.dylib
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/libcsfml-graphics.dylib
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/libcsfml-system.2.6.dylib
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/libcsfml-system.dylib
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/libcsfml-window.2.6.dylib
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/libcsfml-window.dylib
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/libsfml-audio.2.6.dylib
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/libsfml-graphics.2.6.dylib
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/libsfml-system.2.6.dylib
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/libsfml-window.2.6.dylib
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/ogg.framework/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/ogg.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/ogg.framework/Versions/A/ogg
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/ogg.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/ogg.framework/Versions/Current/ogg
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/ogg.framework/ogg
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbis.framework/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbis.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbis.framework/Versions/A/vorbis
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbis.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbis.framework/Versions/Current/vorbis
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbis.framework/vorbis
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisenc.framework/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisenc.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisenc.framework/Versions/A/vorbisenc
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisenc.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisenc.framework/Versions/Current/vorbisenc
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisenc.framework/vorbisenc
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisfile.framework/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisfile.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisfile.framework/Versions/A/vorbisfile
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisfile.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisfile.framework/Versions/Current/vorbisfile
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisfile.framework/vorbisfile
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/win-x64/native/csfml-audio.dll
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/win-x64/native/csfml-graphics.dll
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/win-x64/native/csfml-system.dll
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/win-x64/native/csfml-window.dll
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/win-x64/native/openal32.dll
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/win-x86/native/csfml-audio.dll
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/win-x86/native/csfml-graphics.dll
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/win-x86/native/csfml-system.dll
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/win-x86/native/csfml-window.dll
+/Users/besttech/Downloads/minesweeper/bin/Debug/net8.0/runtimes/win-x86/native/openal32.dll
+/Users/besttech/Downloads/minesweeper/obj/Debug/net8.0/deneme.csproj.AssemblyReference.cache
+/Users/besttech/Downloads/minesweeper/obj/Debug/net8.0/deneme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/besttech/Downloads/minesweeper/obj/Debug/net8.0/deneme.AssemblyInfoInputs.cache
+/Users/besttech/Downloads/minesweeper/obj/Debug/net8.0/deneme.AssemblyInfo.cs
+/Users/besttech/Downloads/minesweeper/obj/Debug/net8.0/deneme.csproj.CoreCompileInputs.cache
+/Users/besttech/Downloads/minesweeper/obj/Debug/net8.0/deneme.csproj.Up2Date
+/Users/besttech/Downloads/minesweeper/obj/Debug/net8.0/deneme.dll
+/Users/besttech/Downloads/minesweeper/obj/Debug/net8.0/refint/deneme.dll
+/Users/besttech/Downloads/minesweeper/obj/Debug/net8.0/deneme.pdb
+/Users/besttech/Downloads/minesweeper/obj/Debug/net8.0/deneme.genruntimeconfig.cache
+/Users/besttech/Downloads/minesweeper/obj/Debug/net8.0/ref/deneme.dll
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/deneme
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/deneme.deps.json
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/deneme.runtimeconfig.json
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/deneme.dll
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/deneme.pdb
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/SFML.Audio.dll
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/SFML.Graphics.dll
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/SFML.System.dll
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/SFML.Window.dll
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/fedora-x64/native/libcsfml-audio.so
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/fedora-x64/native/libcsfml-audio.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/fedora-x64/native/libcsfml-graphics.so
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/fedora-x64/native/libcsfml-graphics.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/fedora-x64/native/libcsfml-system.so
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/fedora-x64/native/libcsfml-system.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/fedora-x64/native/libcsfml-window.so
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/fedora-x64/native/libcsfml-window.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/fedora-x64/native/libsfml-audio.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/fedora-x64/native/libsfml-graphics.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/fedora-x64/native/libsfml-system.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/fedora-x64/native/libsfml-window.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-arm/native/libcsfml-audio.so
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-arm/native/libcsfml-audio.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-arm/native/libcsfml-graphics.so
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-arm/native/libcsfml-graphics.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-arm/native/libcsfml-system.so
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-arm/native/libcsfml-system.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-arm/native/libcsfml-window.so
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-arm/native/libcsfml-window.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-arm/native/libsfml-audio.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-arm/native/libsfml-graphics.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-arm/native/libsfml-system.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-arm/native/libsfml-window.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-arm64/native/libcsfml-audio.so
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-arm64/native/libcsfml-audio.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-arm64/native/libcsfml-graphics.so
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-arm64/native/libcsfml-graphics.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-arm64/native/libcsfml-system.so
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-arm64/native/libcsfml-system.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-arm64/native/libcsfml-window.so
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-arm64/native/libcsfml-window.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-arm64/native/libsfml-audio.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-arm64/native/libsfml-graphics.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-arm64/native/libsfml-system.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-arm64/native/libsfml-window.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libcsfml-audio.so
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libcsfml-audio.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libcsfml-graphics.so
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libcsfml-graphics.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libcsfml-system.so
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libcsfml-system.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libcsfml-window.so
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libcsfml-window.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libsfml-audio.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libsfml-graphics.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libsfml-system.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libsfml-window.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-x64/native/libcsfml-audio.so
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-x64/native/libcsfml-audio.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-x64/native/libcsfml-graphics.so
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-x64/native/libcsfml-graphics.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-x64/native/libcsfml-system.so
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-x64/native/libcsfml-system.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-x64/native/libcsfml-window.so
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-x64/native/libcsfml-window.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-x64/native/libsfml-audio.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-x64/native/libsfml-graphics.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-x64/native/libsfml-system.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/linux-x64/native/libsfml-window.so.2.6
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/FLAC.framework/FLAC
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/FLAC.framework/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/FLAC.framework/Versions/A/FLAC
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/FLAC.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/FLAC.framework/Versions/Current/FLAC
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/FLAC.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/OpenAL.framework/OpenAL
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/OpenAL.framework/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/OpenAL.framework/Versions/A/OpenAL
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/OpenAL.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/OpenAL.framework/Versions/Current/OpenAL
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/OpenAL.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/freetype.framework/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/freetype.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/freetype.framework/Versions/A/freetype
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/freetype.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/freetype.framework/Versions/Current/freetype
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/freetype.framework/freetype
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/libcsfml-audio.2.6.dylib
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/libcsfml-audio.dylib
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/libcsfml-graphics.2.6.dylib
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/libcsfml-graphics.dylib
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/libcsfml-system.2.6.dylib
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/libcsfml-system.dylib
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/libcsfml-window.2.6.dylib
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/libcsfml-window.dylib
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/libsfml-audio.2.6.dylib
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/libsfml-graphics.2.6.dylib
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/libsfml-system.2.6.dylib
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/libsfml-window.2.6.dylib
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/ogg.framework/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/ogg.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/ogg.framework/Versions/A/ogg
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/ogg.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/ogg.framework/Versions/Current/ogg
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/ogg.framework/ogg
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbis.framework/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbis.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbis.framework/Versions/A/vorbis
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbis.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbis.framework/Versions/Current/vorbis
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbis.framework/vorbis
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisenc.framework/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisenc.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisenc.framework/Versions/A/vorbisenc
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisenc.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisenc.framework/Versions/Current/vorbisenc
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisenc.framework/vorbisenc
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisfile.framework/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisfile.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisfile.framework/Versions/A/vorbisfile
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisfile.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisfile.framework/Versions/Current/vorbisfile
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisfile.framework/vorbisfile
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/FLAC.framework/FLAC
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/FLAC.framework/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/FLAC.framework/Versions/A/FLAC
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/FLAC.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/FLAC.framework/Versions/Current/FLAC
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/FLAC.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/OpenAL.framework/OpenAL
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/OpenAL.framework/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/OpenAL.framework/Versions/A/OpenAL
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/OpenAL.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/OpenAL.framework/Versions/Current/OpenAL
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/OpenAL.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/freetype.framework/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/freetype.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/freetype.framework/Versions/A/freetype
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/freetype.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/freetype.framework/Versions/Current/freetype
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/freetype.framework/freetype
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/libcsfml-audio.2.6.dylib
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/libcsfml-audio.dylib
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/libcsfml-graphics.2.6.dylib
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/libcsfml-graphics.dylib
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/libcsfml-system.2.6.dylib
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/libcsfml-system.dylib
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/libcsfml-window.2.6.dylib
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/libcsfml-window.dylib
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/libsfml-audio.2.6.dylib
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/libsfml-graphics.2.6.dylib
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/libsfml-system.2.6.dylib
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/libsfml-window.2.6.dylib
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/ogg.framework/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/ogg.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/ogg.framework/Versions/A/ogg
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/ogg.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/ogg.framework/Versions/Current/ogg
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/ogg.framework/ogg
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbis.framework/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbis.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbis.framework/Versions/A/vorbis
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbis.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbis.framework/Versions/Current/vorbis
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbis.framework/vorbis
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisenc.framework/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisenc.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisenc.framework/Versions/A/vorbisenc
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisenc.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisenc.framework/Versions/Current/vorbisenc
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisenc.framework/vorbisenc
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisfile.framework/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisfile.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisfile.framework/Versions/A/vorbisfile
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisfile.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisfile.framework/Versions/Current/vorbisfile
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisfile.framework/vorbisfile
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/win-x64/native/csfml-audio.dll
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/win-x64/native/csfml-graphics.dll
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/win-x64/native/csfml-system.dll
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/win-x64/native/csfml-window.dll
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/win-x64/native/openal32.dll
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/win-x86/native/csfml-audio.dll
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/win-x86/native/csfml-graphics.dll
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/win-x86/native/csfml-system.dll
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/win-x86/native/csfml-window.dll
+/Users/besttech/Desktop/Prog |||/minesweeper/bin/Debug/net8.0/runtimes/win-x86/native/openal32.dll
+/Users/besttech/Desktop/Prog |||/minesweeper/obj/Debug/net8.0/deneme.csproj.AssemblyReference.cache
+/Users/besttech/Desktop/Prog |||/minesweeper/obj/Debug/net8.0/deneme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/besttech/Desktop/Prog |||/minesweeper/obj/Debug/net8.0/deneme.AssemblyInfoInputs.cache
+/Users/besttech/Desktop/Prog |||/minesweeper/obj/Debug/net8.0/deneme.AssemblyInfo.cs
+/Users/besttech/Desktop/Prog |||/minesweeper/obj/Debug/net8.0/deneme.csproj.CoreCompileInputs.cache
+/Users/besttech/Desktop/Prog |||/minesweeper/obj/Debug/net8.0/deneme.csproj.Up2Date
+/Users/besttech/Desktop/Prog |||/minesweeper/obj/Debug/net8.0/deneme.dll
+/Users/besttech/Desktop/Prog |||/minesweeper/obj/Debug/net8.0/refint/deneme.dll
+/Users/besttech/Desktop/Prog |||/minesweeper/obj/Debug/net8.0/deneme.pdb
+/Users/besttech/Desktop/Prog |||/minesweeper/obj/Debug/net8.0/deneme.genruntimeconfig.cache
+/Users/besttech/Desktop/Prog |||/minesweeper/obj/Debug/net8.0/ref/deneme.dll
+/Users/besttech/Desktop/space/bin/Debug/net8.0/deneme
+/Users/besttech/Desktop/space/bin/Debug/net8.0/deneme.deps.json
+/Users/besttech/Desktop/space/bin/Debug/net8.0/deneme.runtimeconfig.json
+/Users/besttech/Desktop/space/bin/Debug/net8.0/deneme.dll
+/Users/besttech/Desktop/space/bin/Debug/net8.0/deneme.pdb
+/Users/besttech/Desktop/space/bin/Debug/net8.0/SFML.Audio.dll
+/Users/besttech/Desktop/space/bin/Debug/net8.0/SFML.Graphics.dll
+/Users/besttech/Desktop/space/bin/Debug/net8.0/SFML.System.dll
+/Users/besttech/Desktop/space/bin/Debug/net8.0/SFML.Window.dll
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/fedora-x64/native/libcsfml-audio.so
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/fedora-x64/native/libcsfml-audio.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/fedora-x64/native/libcsfml-graphics.so
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/fedora-x64/native/libcsfml-graphics.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/fedora-x64/native/libcsfml-system.so
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/fedora-x64/native/libcsfml-system.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/fedora-x64/native/libcsfml-window.so
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/fedora-x64/native/libcsfml-window.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/fedora-x64/native/libsfml-audio.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/fedora-x64/native/libsfml-graphics.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/fedora-x64/native/libsfml-system.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/fedora-x64/native/libsfml-window.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-arm/native/libcsfml-audio.so
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-arm/native/libcsfml-audio.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-arm/native/libcsfml-graphics.so
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-arm/native/libcsfml-graphics.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-arm/native/libcsfml-system.so
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-arm/native/libcsfml-system.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-arm/native/libcsfml-window.so
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-arm/native/libcsfml-window.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-arm/native/libsfml-audio.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-arm/native/libsfml-graphics.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-arm/native/libsfml-system.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-arm/native/libsfml-window.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-arm64/native/libcsfml-audio.so
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-arm64/native/libcsfml-audio.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-arm64/native/libcsfml-graphics.so
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-arm64/native/libcsfml-graphics.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-arm64/native/libcsfml-system.so
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-arm64/native/libcsfml-system.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-arm64/native/libcsfml-window.so
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-arm64/native/libcsfml-window.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-arm64/native/libsfml-audio.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-arm64/native/libsfml-graphics.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-arm64/native/libsfml-system.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-arm64/native/libsfml-window.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libcsfml-audio.so
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libcsfml-audio.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libcsfml-graphics.so
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libcsfml-graphics.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libcsfml-system.so
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libcsfml-system.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libcsfml-window.so
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libcsfml-window.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libsfml-audio.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libsfml-graphics.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libsfml-system.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libsfml-window.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-x64/native/libcsfml-audio.so
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-x64/native/libcsfml-audio.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-x64/native/libcsfml-graphics.so
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-x64/native/libcsfml-graphics.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-x64/native/libcsfml-system.so
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-x64/native/libcsfml-system.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-x64/native/libcsfml-window.so
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-x64/native/libcsfml-window.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-x64/native/libsfml-audio.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-x64/native/libsfml-graphics.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-x64/native/libsfml-system.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/linux-x64/native/libsfml-window.so.2.6
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/FLAC.framework/FLAC
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/FLAC.framework/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/FLAC.framework/Versions/A/FLAC
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/FLAC.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/FLAC.framework/Versions/Current/FLAC
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/FLAC.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/OpenAL.framework/OpenAL
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/OpenAL.framework/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/OpenAL.framework/Versions/A/OpenAL
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/OpenAL.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/OpenAL.framework/Versions/Current/OpenAL
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/OpenAL.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/freetype.framework/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/freetype.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/freetype.framework/Versions/A/freetype
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/freetype.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/freetype.framework/Versions/Current/freetype
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/freetype.framework/freetype
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/libcsfml-audio.2.6.dylib
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/libcsfml-audio.dylib
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/libcsfml-graphics.2.6.dylib
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/libcsfml-graphics.dylib
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/libcsfml-system.2.6.dylib
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/libcsfml-system.dylib
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/libcsfml-window.2.6.dylib
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/libcsfml-window.dylib
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/libsfml-audio.2.6.dylib
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/libsfml-graphics.2.6.dylib
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/libsfml-system.2.6.dylib
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/libsfml-window.2.6.dylib
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/ogg.framework/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/ogg.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/ogg.framework/Versions/A/ogg
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/ogg.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/ogg.framework/Versions/Current/ogg
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/ogg.framework/ogg
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbis.framework/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbis.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbis.framework/Versions/A/vorbis
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbis.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbis.framework/Versions/Current/vorbis
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbis.framework/vorbis
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisenc.framework/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisenc.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisenc.framework/Versions/A/vorbisenc
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisenc.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisenc.framework/Versions/Current/vorbisenc
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisenc.framework/vorbisenc
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisfile.framework/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisfile.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisfile.framework/Versions/A/vorbisfile
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisfile.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisfile.framework/Versions/Current/vorbisfile
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-arm64/native/vorbisfile.framework/vorbisfile
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/FLAC.framework/FLAC
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/FLAC.framework/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/FLAC.framework/Versions/A/FLAC
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/FLAC.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/FLAC.framework/Versions/Current/FLAC
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/FLAC.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/OpenAL.framework/OpenAL
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/OpenAL.framework/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/OpenAL.framework/Versions/A/OpenAL
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/OpenAL.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/OpenAL.framework/Versions/Current/OpenAL
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/OpenAL.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/freetype.framework/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/freetype.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/freetype.framework/Versions/A/freetype
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/freetype.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/freetype.framework/Versions/Current/freetype
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/freetype.framework/freetype
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/libcsfml-audio.2.6.dylib
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/libcsfml-audio.dylib
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/libcsfml-graphics.2.6.dylib
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/libcsfml-graphics.dylib
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/libcsfml-system.2.6.dylib
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/libcsfml-system.dylib
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/libcsfml-window.2.6.dylib
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/libcsfml-window.dylib
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/libsfml-audio.2.6.dylib
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/libsfml-graphics.2.6.dylib
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/libsfml-system.2.6.dylib
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/libsfml-window.2.6.dylib
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/ogg.framework/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/ogg.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/ogg.framework/Versions/A/ogg
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/ogg.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/ogg.framework/Versions/Current/ogg
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/ogg.framework/ogg
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/vorbis.framework/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/vorbis.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/vorbis.framework/Versions/A/vorbis
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/vorbis.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/vorbis.framework/Versions/Current/vorbis
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/vorbis.framework/vorbis
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisenc.framework/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisenc.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisenc.framework/Versions/A/vorbisenc
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisenc.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisenc.framework/Versions/Current/vorbisenc
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisenc.framework/vorbisenc
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisfile.framework/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisfile.framework/Versions/A/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisfile.framework/Versions/A/vorbisfile
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisfile.framework/Versions/Current/Resources/Info.plist
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisfile.framework/Versions/Current/vorbisfile
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/osx-x64/native/vorbisfile.framework/vorbisfile
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/win-x64/native/csfml-audio.dll
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/win-x64/native/csfml-graphics.dll
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/win-x64/native/csfml-system.dll
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/win-x64/native/csfml-window.dll
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/win-x64/native/openal32.dll
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/win-x86/native/csfml-audio.dll
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/win-x86/native/csfml-graphics.dll
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/win-x86/native/csfml-system.dll
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/win-x86/native/csfml-window.dll
+/Users/besttech/Desktop/space/bin/Debug/net8.0/runtimes/win-x86/native/openal32.dll
+/Users/besttech/Desktop/space/obj/Debug/net8.0/deneme.csproj.AssemblyReference.cache
+/Users/besttech/Desktop/space/obj/Debug/net8.0/deneme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/besttech/Desktop/space/obj/Debug/net8.0/deneme.AssemblyInfoInputs.cache
+/Users/besttech/Desktop/space/obj/Debug/net8.0/deneme.AssemblyInfo.cs
+/Users/besttech/Desktop/space/obj/Debug/net8.0/deneme.csproj.CoreCompileInputs.cache
+/Users/besttech/Desktop/space/obj/Debug/net8.0/deneme.csproj.Up2Date
+/Users/besttech/Desktop/space/obj/Debug/net8.0/deneme.dll
+/Users/besttech/Desktop/space/obj/Debug/net8.0/refint/deneme.dll
+/Users/besttech/Desktop/space/obj/Debug/net8.0/deneme.pdb
+/Users/besttech/Desktop/space/obj/Debug/net8.0/deneme.genruntimeconfig.cache
+/Users/besttech/Desktop/space/obj/Debug/net8.0/ref/deneme.dll
